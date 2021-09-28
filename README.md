@@ -2,6 +2,10 @@
 
 ycuxitctvi队，排名10/177，mengchang1998 队长 chunminghe0224 队员 zhanghengyu99 队员
 
+### Baseline
+
+Faster-RCNN
+
 ### Tricks
 
 复现Mosaic、Mixup数据增强算法(修改tools/transforms.py和tools/train.py)
