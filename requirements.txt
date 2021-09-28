@@ -1,0 +1,5 @@
+megengine
+numpy
+opencv-python
+tqdm
+tabulate
